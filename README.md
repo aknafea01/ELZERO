@@ -18,3 +18,9 @@
 - [Assignment 18](https://aknafea01.github.io/Elzero/Tasks/css/18)  
 - [Assignment 19](https://aknafea01.github.io/Elzero/Tasks/css/19)
 
+ 
+
+### Access Templates  
+- [Template 1](https://aknafea01.github.io/Elzero/Templates/Template-1)  
+
+
